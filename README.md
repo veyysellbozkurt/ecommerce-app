@@ -7,7 +7,9 @@
 This project is a cloud-enabled e-commerce platform that provides basic product management functionalities such as adding, listing, and deleting products. It uses a modular architecture with a RESTful API and is deployed on Google Cloud Platform using App Engine. Data is securely stored using MongoDB Atlas.
 
 Front - URL: https://babaamet-front.lm.r.appspot.com
+
 Api URL: https://babaamet.lm.r.appspot.com/
+
 
 GET
 https://babaamet.lm.r.appspot.com/api/products
@@ -28,6 +30,8 @@ https://babaamet.lm.r.appspot.com/api/products/:id
 DELETE
 https://babaamet.lm.r.appspot.com/api/products/:id
 Ürünü sil (id ile)
+
+
 
 
 
