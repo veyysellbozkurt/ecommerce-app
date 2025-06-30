@@ -12,18 +12,23 @@ Api URL: https://babaamet.lm.r.appspot.com/
 GET
 https://babaamet.lm.r.appspot.com/api/products
 Tüm ürünleri listele
+
 POST
 https://babaamet.lm.r.appspot.com/api/products
 Yeni ürün ekle
+
 GET
 https://babaamet.lm.r.appspot.com/api/products/:id
 Belirli ürünü getir (id ile)
+
 PUT
 https://babaamet.lm.r.appspot.com/api/products/:id
 Ürünü güncelle (id ile)
+
 DELETE
 https://babaamet.lm.r.appspot.com/api/products/:id
 Ürünü sil (id ile)
+
 
 
 
